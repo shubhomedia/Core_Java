@@ -6,7 +6,8 @@ public class Simple_Method {
         sayHelloTo("Shubho");
         sayHelloTo("Media");
 
-        square(5);
+        int x = square(5);
+        System.out.println(x);
     }
 
     static void sayHelloTo(String name){
