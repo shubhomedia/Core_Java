@@ -9,5 +9,14 @@ public class Conditionals {
             System.out.println("Good afternoon");
         }
 
+        int playerX = 50;
+        if(true && false){
+            System.out.println("and executed");
+        }
+
+        if(playerX <0 || playerX > 800) {
+            System.out.println("or executed");
+        }
+
     }
 }
