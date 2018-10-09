@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/core_java.iml" filepath="$PROJECT_DIR$/core_java.iml" />
     </modules>
