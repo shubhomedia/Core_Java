@@ -4,16 +4,12 @@ public class ClassAndObject {
     public static void main(String[] args) {
         JLabel label = new JLabel();
 
-        Person shubho = new Person();
-        shubho.name = "Shubho";
-        shubho.age = 24;
+        Person shubho = new Person("Shubho");
+        shubho.setAge(20);
 
-        Person bob =  new Person();
-
-        bob.name = "Bob Marlay";
-        bob.age = 20;
-
-        System.out.println("Shubho is " + shubho.age +" Years old" );
-        System.out.println("Bob is " + bob.age +" Years old" );
+        Person bob = new Person("bob");
+        bob.setAge(24);
+        System.out.println(shubho.getAge()+shubho.getName());
+        System.out.println(bob.getAge()+bob.getName());
     }
 }
