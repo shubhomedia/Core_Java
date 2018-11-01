@@ -1,8 +1,8 @@
 public class Constants {
 
     //Example of Constant
-    final static int WIDTH = 800;
-    final static int HEIGHT = 600;
+    public final static int WIDTH = 800;
+    public final static int HEIGHT = 600;
 
     public static void main(String[] args) {
 
