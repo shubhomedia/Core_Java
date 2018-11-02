@@ -1,2 +1,2 @@
-public class SubClass {
+public class SubClass extends Base {
 }
